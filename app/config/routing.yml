@@ -1,0 +1,5 @@
+tagged_foosball:
+    resource: "@TaggedFoosballBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
